@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<NEKTAR>
+    <Metadata>
+        <Provenance>
+            <GitBranch>refs/heads/master</GitBranch>
+            <GitSHA1>0c105fe7223dd3df13764e513377c8c439b45403</GitSHA1>
+            <Hostname>lab-1</Hostname>
+            <NektarVersion>5.0.0</NektarVersion>
+            <Timestamp>08-Nov-2020 12:02:08</Timestamp>
+        </Provenance>
+        <ChkFileNum>401</ChkFileNum>
+        <Kinvis>0.00025641025641025641</Kinvis>
+        <MappingCartesianVel>False</MappingCartesianVel>
+        <SessionName0>CylFlow_HomoStrip_Re3900_xml/P0000000.xml</SessionName0>
+        <Time>200.00000000059092</Time>
+        <TimeStep>0.001</TimeStep>
+    </Metadata>
+    <Partition FileName="P0000000.fld">85-92</Partition>
+    <Partition FileName="P0000001.fld">40-43,61-63,68-69</Partition>
+    <Partition FileName="P0000002.fld">32-39,84</Partition>
+    <Partition FileName="P0000003.fld">75-83</Partition>
+    <Partition FileName="P0000004.fld">44-47,51-54,96</Partition>
+    <Partition FileName="P0000005.fld">97-99,104-106,111-113</Partition>
+    <Partition FileName="P0000006.fld">48-50,55-57,64,70-71</Partition>
+    <Partition FileName="P0000007.fld">93-95,101-103,108-110</Partition>
+    <Partition FileName="P0000008.fld">21-22,28-31,72-73</Partition>
+    <Partition FileName="P0000009.fld">121-122,132,135,144,149-152</Partition>
+    <Partition FileName="P0000010.fld">17-20,24-27,139</Partition>
+    <Partition FileName="P0000011.fld">115,130-131,134,141-142,145,148,153</Partition>
+    <Partition FileName="P0000012.fld">114,118,126,128,136-138,177-178</Partition>
+    <Partition FileName="P0000013.fld">155,167,169,171-172,175,185-186,189</Partition>
+    <Partition FileName="P0000014.fld">74,100,107,116,125,154,157,166,195</Partition>
+    <Partition FileName="P0000015.fld">156,162-163,173,176,190-193</Partition>
+    <Partition FileName="P0000016.fld">212-213,236-237,240-241,244-245</Partition>
+    <Partition FileName="P0000017.fld">214-215,219,238-239,242-243,246-247</Partition>
+    <Partition FileName="P0000018.fld">216-218,220-223,226-227</Partition>
+    <Partition FileName="P0000019.fld">224-225,268-274</Partition>
+    <Partition FileName="P0000020.fld">275-283</Partition>
+    <Partition FileName="P0000021.fld">248-255,259</Partition>
+    <Partition FileName="P0000022.fld">228-229,256-258,260-261,264-265</Partition>
+    <Partition FileName="P0000023.fld">230-231,233-235,262-263,266-267</Partition>
+    <Partition FileName="P0000024.fld">4-5,7,208-211,232</Partition>
+    <Partition FileName="P0000025.fld">6,8-11,196-199</Partition>
+    <Partition FileName="P0000026.fld">117,120,124,129,140,146-147,205,207</Partition>
+    <Partition FileName="P0000027.fld">0-3,16,23,123,204,206</Partition>
+    <Partition FileName="P0000028.fld">119,127,133,143,159-160,174,179,184</Partition>
+    <Partition FileName="P0000029.fld">158,161,165,168,170,181-182,188,194</Partition>
+    <Partition FileName="P0000030.fld">58-60,65-67,164,180,183</Partition>
+    <Partition FileName="P0000031.fld">12-15,187,200-203</Partition>
+</NEKTAR>
